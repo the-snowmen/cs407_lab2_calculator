@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         multiplyButton = findViewById(R.id.multiplyButton)
         divideButton = findViewById(R.id.divideButton)
 
-        // Set click listeners
+        // Set click listener
         addButton.setOnClickListener { performOperation(getString(R.string.addition_symbol)) }
         subtractButton.setOnClickListener { performOperation(getString(R.string.subtraction_symbol)) }
         multiplyButton.setOnClickListener { performOperation(getString(R.string.multiplication_symbol)) }
