@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CS407_lab2</string>
+    <string name="calculator_title">The Calculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="addition_symbol">+</string>
+    <string name="subtraction_symbol">−</string>
+    <string name="multiplication_symbol">×</string>
+    <string name="division_symbol">÷</string>
+    <string name="please_enter_both_numbers">Please enter both numbers</string>
+    <string name="cannot_divide_by_zero">Cannot divide by zero, try again</string>
+    <string name="invalid_input">Invalid input. Please enter integer only</string>
+    <string name="result_prefix">Result: </string>
+</resources>
